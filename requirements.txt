@@ -1,0 +1,8 @@
+
+streamlit==1.58.0
+torch==2.14.1
+torchvision==0.29.2
+numpy
+Pillow
+matplotlib
+opencv-python
